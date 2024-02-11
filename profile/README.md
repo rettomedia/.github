@@ -14,7 +14,7 @@ As Retto Media, we are working on web development, data security, and the art of
 Join our active discussions and stay updated on project developments. You can find us on:
 
 - [Retto Social](https://social.rettomedia.com)
-- [Instagram](https://instagram.com/rettosocial)
+- [Instagram](https://instagram.com/retto.media)
 
 ## Contact Us
 Have questions or want to connect with us? Reach out to our team at [ekinnos@tutanota.com](mailto:ekinnos@tutanota.com).
