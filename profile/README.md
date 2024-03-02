@@ -7,8 +7,8 @@ Welcome to official GitHub organization for Retto Media.
 As Retto Media, we are working on web development, data security, and the art of free software, and we are instilling the importance of free software in people. We develop web applications, manage servers and databases, provide IT consulting, and develop our own projects. <a href="">#freesoftware</a>.
 
 ### Our Projects
-- [Retto Social](https://rettomedia.com): The ultimate social hub for everyone.
-- [Retto Cloud](https://cloud.rettomedia.com): Next-generation deployment service.
+- [Retto Social](https://rettomedia.com): Social network of the next generation.
+- [Retto Cloud](https://cloud.rettomedia.com): Publish your web application for everyone.
 
 ### Join the Discussion
 Join our active discussions and stay updated on project developments. You can find us on:
