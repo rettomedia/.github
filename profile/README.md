@@ -8,7 +8,7 @@ As Retto Media, we are working on web development, data security, and the art of
 
 ### Our Projects
 - [Retto Social](https://rettomedia.com): Social network of the next generation.
-- [Retto Cloud](https://cloud.rettomedia.com): Publish your web application for everyone.
+- [Retto Cloud](https://cloud.rettomedia.com): Publish your web projects everyone.
 
 ### Join the Discussion
 Join our active discussions and stay updated on project developments. You can find us on:
