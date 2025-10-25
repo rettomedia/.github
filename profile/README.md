@@ -18,6 +18,6 @@ Join our active discussions and stay updated on project developments. You can fi
 - [Instagram](https://instagram.com/rettoit)
 
 ## Contact Us
-Have questions or want to connect with us? Reach out to our team at [ekinnos@tutanota.com](mailto:ekinnos@tutanota.com).
+Have questions or want to connect with us? Reach out to our team at [info@rettoit.com](mailto:info@rettoit.com).
 
 Thank you for your interest in Retto Media.
